@@ -2,7 +2,7 @@
 
 #### Usage: device_check.py [device_file [backup_dir]]
 
-Defaults: device_file: devices.txt, backup_dir: backups
+#### Defaults: device_file: devices.txt, backup_dir: backups
 
 Дано:
 
